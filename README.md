@@ -1,2 +1,2 @@
-# Reforco_python 8FjKlTFtgh
+# Reforco_python
 Aulas de reforço em python com Davi o Grande dwPZmBWNLW
